@@ -17,7 +17,7 @@ require (
 	github.com/prometheus/client_model v0.2.0
 	github.com/prometheus/common v0.32.1
 	github.com/sigstore/sigstore v1.1.1-0.20220124143820-3cebf5c58675
-	github.com/spf13/cobra v1.3.0
+	github.com/spf13/cobra v1.6.0
 	github.com/spf13/viper v1.10.1
 	github.com/stretchr/testify v1.7.0
 	go.step.sm/crypto v0.15.0
@@ -27,5 +27,5 @@ require (
 	google.golang.org/genproto v0.0.0-20220114231437-d2e6a121cae0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/square/go-jose.v2 v2.6.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 )
